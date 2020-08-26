@@ -30,17 +30,17 @@ python LocationApp.py
 Dashboard: a python script which is currently running on a secure online web page built on an Apache HTTP server.
 
 # Key engineering design criteria
-1.	Digitize the physical sample identification with human-readable sample recognition. 
+##1. Digitize the physical sample identification with human-readable sample recognition. 
 According the type of labelprinter and the size of label, we choose to use EAN8 code as the barcode, with human readable barcode ID attaches to the label (due to the small size of the label). We also provide a webcam barcode identification feature, so we cannot use more complex format digital identification (e.g. PDF417, QR code). If users have a high quality printer, or the label is big enough, users can surly choose more complex barcode format.
 
-2.	Tracking specimen status in longitudinal manner – using REDCap tuple table. 
+##	2. Tracking specimen status in longitudinal manner – using REDCap tuple table. 
 All barcode action event should be recorded in the REDCap. e.g. print, scanned, re-print, distributed to other lab, barcode destroyed etc. Administrators can do simple longitudinal query on the tuple table.
 
-3.	Customized specifications:
-a.	PrinterApp: Print full pack; Print extra frozen specimen only; Print full pack with extra frozen specimen; Print full pack without fresh specimen; Re-print missing barcode; Re-print destroyed barcode. 
-b.	LocationApp: Users prefer an Excel like data entry. The input table should be sorted based on barcode ID. The form can be automatically filled. The App should notified if a barcode has been destroyed/stored/distributed for avoiding to duplicate/error data entries. 
+##	3. Customized specifications:
+PrinterApp: Print full pack; Print extra frozen specimen only; Print full pack with extra frozen specimen; Print full pack without fresh specimen; Re-print missing barcode; Re-print destroyed barcode. 
+LocationApp: Users prefer an Excel like data entry. The input table should be sorted based on barcode ID. The form can be automatically filled. The App should notified if a barcode has been destroyed/stored/distributed for avoiding to duplicate/error data entries. 
 
-4.	Detect data inconsistency.
-a.	Validate if the barcode is valid.
-b.	Detect un-recorded manual entries.
-c.	Patient ID should match patient category (study type)
+## 4.Detect data inconsistency.
+Validate if the barcode is valid.
+Detect un-recorded manual entries.
+Patient ID should match patient category (study type)
