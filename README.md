@@ -9,7 +9,7 @@ This is a project integrate barcode tracking systems to a REDCap project. We imp
 We choose the DYMO LabelWriters 450. The drivers are available at [mac os, windows](https://www.dymo.com/en-US/compatibility-chart), [linux (not testing)](https://www.dymo.com/en-US/dymo-label-sdk-cups-linux-p?storeId=20051&catalogId=10551).
 
 # Installation
-Python version: tested on python 3.6 and 3.7.
+Python version: the program has been tested on python 3.6 and 3.7.
 ```bash
 pip install -r requirements.txt 
 ```
