@@ -29,6 +29,9 @@ python LocationApp.py
 ```
 Dashboard: a python script which is currently running on a secure online web page built on an Apache HTTP server.
 
+# Usage
+Please check the demo folder for the simple usage of the REDCap tuple table. User REDCAP API_KEY is needed to run the demo.  
+
 # Key engineering design criteria
 ## 1. Digitize the physical sample identification with human-readable sample recognition. 
 According the type of labelprinter and the size of label, we choose to use EAN8 code as the barcode, with human readable barcode ID attaches to the label (due to the small size of the label). We also provide a webcam barcode identification feature, so we cannot use more complex format digital identification (e.g., PDF417, QR code). If users have a high quality printer, or the label is big enough, users can surly choose more complex barcode format.
