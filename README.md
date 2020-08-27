@@ -29,7 +29,7 @@ python LocationApp.py
 ```
 Dashboard: a python script which is currently running on a secure online web page built on an Apache HTTP server.
 
-# Usage
+# DEMO
 Please check the demo folder for the simple usage of the REDCap tuple table. User REDCAP API_KEY is needed to run the demo.  
 
 # Key engineering design criteria
