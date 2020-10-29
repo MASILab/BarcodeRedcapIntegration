@@ -1,3 +1,5 @@
+contact: shunxing.bao@vanderbilt.edu
+
 # BarcodeRedcapIntegration
 
 This is a project integrate barcode tracking systems to a REDCap project. We implement our systems with utilizing the RECap tuple table to 
