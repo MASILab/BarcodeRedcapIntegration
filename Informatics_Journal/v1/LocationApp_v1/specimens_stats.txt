@@ -1,0 +1,17 @@
+Overview of specimens storage (Specimen stats):
+
+  Study_type  Serum  Stool  DNA
+     CD_ENDO    206     16   26
+    CTL_ENDO    142     12   14
+  CD_Surgery      0      0    0
+ CTL_Surgery      0      0    0
+       Total    348     28   40
+
+Overview of specimens storage (Patient stats):
+
+  Study_type  Serum  Stool  DNA
+     CD_ENDO     26      4   26
+    CTL_ENDO     15      3   14
+  CD_Surgery      0      0    0
+ CTL_Surgery      0      0    0
+       Total     41      7   40

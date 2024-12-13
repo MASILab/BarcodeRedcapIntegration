@@ -1,0 +1,30 @@
+Overview of biopsies storage:
+  Study_type Biopsies_type  Fresh  Fixed  Frozen  Add_Frozen
+     CD_ENDO           TIA      8      9       8           1
+                       TIB     12     13      12           1
+                       ACA      8      8       8           0
+                       ACB     16     18      18           2
+    CTL_ENDO            TI      7     12      12           5
+                        AC      9     15      15           6
+  CD_Surgery            TI      0      0       0           0
+                        AC      0      0       0           0
+ CTL_Surgery           TI1      0      0       0           0
+                       TI2      0      0       0           0
+                       TI3      0      0       0           0
+                       AC4      0      0       0           0
+                       AC5      0      0       0           0
+                       AC6      0      0       0           0
+                       AC7      0      0       0           0
+                       AC8      0      0       0           0
+       TOTAL                   60     75      73          15
+
+Sub-total of biopsies storage:
+  Study_type  Fresh  Fixed  Frozen  Add_Frozen  Total
+     CD_ENDO     44     48      46           4    142
+    CTL_ENDO     16     27      27          11     81
+  CD_Surgery      0      0       0           0      0
+ CTL_Surgery      0      0       0           0      0
+
+Total of biopsies collected:
+  TI   AC  TOTAL
+ 100  123    223

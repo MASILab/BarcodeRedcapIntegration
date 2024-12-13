@@ -52,3 +52,6 @@ Validate if the barcode is valid.
 Detect un-recorded manual entries.
 
 Patient ID should match patient category (study type)
+
+## 5. Informatics_Journal
+The data dictionary design / app samples / docker build scripts for each clinical studies, including Crohn’s Disease Gut Cell Atlas, Translational Impact of Electrophile Adducts in Colorectal Cancer, Helicobacter pylori-associated Gastric Inflammation and Disease Progression, and Gut-Microbiome Related Gastrointestinal and Liver Diseases.

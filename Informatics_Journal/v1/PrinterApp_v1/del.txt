@@ -1,0 +1,168 @@
+GCA025ST1
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025ST1_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+10
+3
+7
+GCA025ST2
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025ST2_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+11
+3
+4
+GCA025ST3
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025ST3_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+12
+3
+1
+GCA025ST4
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025ST4_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+13
+3
+8
+GCA025SR1
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR1_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+14
+3
+5
+GCA025SR2
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR2_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+15
+3
+2
+GCA025SR3
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR3_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+6
+4
+8
+GCA025SR4
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR4_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+7
+4
+5
+GCA025SR5
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR5_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+8
+4
+2
+GCA025SR6
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR6_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+9
+4
+9
+GCA025SR7
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR7_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+10
+4
+6
+GCA025SR8
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR8_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+11
+4
+3
+GCA025SR9
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR9_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+12
+4
+0
+GCA025SR10
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR10_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+13
+4
+7
+GCA025SR11
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025SR11_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+8
+3
+3
+GCA025DNA
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025DNA_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+6
+2
+0
+GCA025FreshTIA
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FreshTIA_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+7
+2
+7
+GCA025FixedTIA
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FixedTIA_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+8
+2
+4
+GCA025FrozenTIA
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FrozenTIA_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+9
+2
+1
+GCA025FreshTIB
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FreshTIB_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+10
+2
+8
+GCA025FixedTIB
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FixedTIB_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+11
+2
+5
+GCA025FrozenTIB
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FrozenTIB_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+12
+2
+2
+GCA025FreshACA
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FreshACA_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+13
+2
+9
+GCA025FixedACA
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FixedACA_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+14
+2
+6
+GCA025FrozenACA
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FrozenACA_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+15
+2
+3
+GCA025FreshACB
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FreshACB_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+6
+3
+9
+GCA025FixedACB
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FixedACB_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+7
+3
+6
+GCA025FrozenACB
+lpr -o PageSize=Custom.23x30mm   /Users/obo/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8/tmp/GCA025FrozenACB_label.png
+lpr: Error - unable to access “/Users/obo/Documents/My” - No such file or directory
+2020-06-02 10:52:46.831 Python[80021:9079777] IMKClient Stall detected, *please Report* your user scenario attaching a spindump (or sysdiagnose) that captures the problem - (imkxpc_bundleIdentifierWithReply:) block performed very slowly (22.09 secs).
+[1]+  Terminated: 15          python locationApp_linux_demo.py  (wd: ~/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/LocationApp_v1)
+(wd now: ~/Documents/My Research/LabelRedcapIntegration/DymoRedcapIntegration/v3_webcam_checksum_ean8)
